@@ -30,16 +30,17 @@ Standardized tests have long been a controversial topic for students, administra
 * [`sat_2019.csv`](./data/sat_2019.csv): 2019 SAT Scores by State ([source](https://blog.prepscholar.com/average-sat-scores-by-state-most-recent))
 * [`sat_2019_by_intended_college_major.csv`](./data/sat_2019_by_intended_college_major.csv): 2019 SAT Scores by Intended College Major ([source](https://reports.collegeboard.org/pdf/2019-total-group-sat-suite-assessments-annual-report.pdf))
 
+---
 
 ### The outside research used and analyzed:
 
-Source name: enrollment-of-undergraduate-students-in-2-year-colleges-us-1990-2020.xlsx (from US Census Bureau: NCES © Statista 2022)
+File name: enrollment-of-undergraduate-students-in-2-year-colleges-us-1990-2020.xlsx (from US Census Bureau: NCES © Statista 2022)
 
-Source name: united-states---birth-rate-1990-2020.xlsx (from US Department of Health and Human Services: NCES © Statista 1990-2020)
+File name: united-states---birth-rate-1990-2020.xlsx (from US Department of Health and Human Services: NCES © Statista 1990-2020)
 
 Source name: 10 Industries AL will disrupt the most by 2030 (Source from SpiceWork)
 
-Source name: Analysis of US Graduate Schools Admission + Prediction Model.ipynb (By me 2 years ago)
+---
 
 ** My analysis include:
 <br>The overall SAT/ACT performance for 50 states
