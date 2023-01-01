@@ -123,7 +123,7 @@ Suggestions for **future Curriculum Development**:
 
 ### FAQ:
 Q. Where can I find your detailed breakdown of graphs and plots?
-<br>A. From the Data Analysis of 2017-19 SAT Score_Project_1_Cathy_Kam (final) file.
+<br>A. From the Data Analysis Code.ipynb file.
 
 Q. Where can I find a copy of your presentation slides?
 <br>A. It's in this folder, named PDF slides.pdf.
