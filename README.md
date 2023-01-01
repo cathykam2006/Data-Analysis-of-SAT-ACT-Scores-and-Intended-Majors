@@ -125,14 +125,8 @@ Suggestions for **future Curriculum Development**:
 Q. Where can I find your detailed breakdown of graphs and plots?
 <br>A. From the Data Analysis of 2017-19 SAT Score_Project_1_Cathy_Kam (final) file.
 
-Q. What's the filename of the plots that you have included in your presentation?
-<br>A. They are called 'relationship_between_part_ACT(Graph).png' and 'relationship_between_part_SAT(Graph).png'.
-
 Q. Where can I find a copy of your presentation slides?
-<br>A. It's in the the project_1 folder. Once you click onto 'Final Version of Project 1_By Cathy Kam', you will see my presentation slides. 
-
-Q: Why are there two projects?
-<br>A. The other project is served as a backup to support my claims and suggestions. 
+<br>A. It's in this folder, named PDF slides.pdf.
 
 ---
 
